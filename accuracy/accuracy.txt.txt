@@ -1,0 +1,1 @@
+A folder to store .npy accuracies calculated by accuracy.py
